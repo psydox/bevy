@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["WIREFRAME_SHADER_HANDLE"],"struct":["NoWireframe","NoWireframes","Wireframe","WireframeConfig","WireframePipeline","WireframePlugin","Wireframes"]};
